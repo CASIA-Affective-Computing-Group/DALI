@@ -1,4 +1,4 @@
-# DALI: Dynamically Adjusted Label Importance for Noisy Partial Label Learning
+# DALI: Dynamically Adjusted Label Importance for Noisy Partial Label Learning 
 
 Correspondence to: 
   - Mingyu Xu*  (xumingyu2021@ia.ac.cn)
