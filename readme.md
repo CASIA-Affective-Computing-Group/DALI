@@ -1,5 +1,6 @@
 # DALI: Dynamically Adjusted Label Importance for Noisy Partial Label Learning 
 
+<!---
 Correspondence to: 
   - Mingyu Xu*  (xumingyu2021@ia.ac.cn)
   - Zheng Lian* (lianzheng2016@ia.ac.cn)
@@ -18,6 +19,7 @@ Please cite our paper if you find our work useful for your research:
   year={2023}
 }
 ```
+-->
 
 ## Usage
 
